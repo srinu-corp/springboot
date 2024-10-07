@@ -1,0 +1,12 @@
+h1{
+	background: green;
+}
+label{
+	display:inline-block;
+	width:100px;
+	
+}
+
+.contentBody{
+background-color: pink;
+}
